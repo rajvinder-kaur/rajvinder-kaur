@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **rajvinder-kaur/rajvinder-kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=random&height=150&section=header&text=Hoi!%20Github%20profile&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=random&height=150&section=header&text=Welcome%20to%20my%20my%20profile&fontSize=50" />
