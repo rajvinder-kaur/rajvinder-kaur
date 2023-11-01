@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=150&section=header&text=🌟%20Welcome%20to%20my%20profile!&fontSize=50&textBg=false&fontColor=FFFFFF" />
+<img alt="Static Badge" src="https://img.shields.io/badge/:LinkedIn">
 <div id=header align="center">
   <img src="https://media.giphy.com/media/ta0ttSeDKuCsg/giphy.gif" width="300" style={{margin:auto}}/>
 </div>
