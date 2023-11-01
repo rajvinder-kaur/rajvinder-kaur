@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 <div id=header align="center">
   <img src="https://media.giphy.com/media/ta0ttSeDKuCsg/giphy.gif" width="300" style={{margin:auto}}/>
 </div>
+
 ![Snake animation](https://github.com/rajvinder-kaur/rajvinder-kaur/blob/output/github-contribution-grid-snake.svg)
