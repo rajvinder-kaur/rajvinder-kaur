@@ -30,4 +30,13 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
+I am a Frontend Developer 
+- :telescope: I’m currently a physics undergraduate and contributing to frontend  for building web applications.
+
+- :seedling: Exploring backend development and designing interfaces .
+
+- :zap: In my free time, I explore new frontend frameworks and libraries.
+
+- :mailbox:How to reach me: kaurrajvinder736@gmail.com .
+
 ![Snake animation](https://github.com/rajvinder-kaur/rajvinder-kaur/blob/output/github-contribution-grid-snake.svg)
