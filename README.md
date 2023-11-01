@@ -56,4 +56,7 @@ I am a Frontend Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" />&nbsp&nbsp
 </div>
 
+### :fire: My Stats :
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rajvinder-kaur&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+
 ![Snake animation](https://github.com/rajvinder-kaur/rajvinder-kaur/blob/output/github-contribution-grid-snake.svg)
