@@ -16,6 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=random&height=150&section=header&text=🌟%20Welcome%20to%20my%20profile!&fontSize=50&textBg=false&fontColor=FFFFFF" />
+
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 <div id=header align="center">
   <img src="https://media.giphy.com/media/ta0ttSeDKuCsg/giphy.gif" width="300" style={{margin:auto}}/>
 </div>
