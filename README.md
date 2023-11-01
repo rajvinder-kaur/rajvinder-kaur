@@ -48,7 +48,7 @@ I am a Frontend Developer
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40"/>&nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />&nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" width="40" height="40" />&nbsp&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" />&nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />&nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="40" height="40" />&nbsp&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="40" height="40" />&nbsp&nbsp
