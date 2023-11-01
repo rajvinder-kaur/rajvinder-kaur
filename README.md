@@ -39,6 +39,21 @@ I am a Frontend Developer
 
 - :mailbox:How to reach me: kaurrajvinder736@gmail.com .
 
+
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />&nbsp&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />&nbsp&nbsp
+</div>
 
 ![Snake animation](https://github.com/rajvinder-kaur/rajvinder-kaur/blob/output/github-contribution-grid-snake.svg)
