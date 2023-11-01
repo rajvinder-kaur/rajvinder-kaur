@@ -59,6 +59,6 @@ I am a Frontend Developer
 ### :fire: My Stats :
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rajvinder-kaur&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvinder-kaur&layout=compact&theme=vision-friendly-dark)](https://github.com/rajvinder-kaur/github-readme-stats)]
+
 
 ![snake gif](https://github.com/rajvinder-kaur/rajvinder-kaur/blob/output/github-contribution-grid-snake.gif)
