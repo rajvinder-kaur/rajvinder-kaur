@@ -39,4 +39,6 @@ I am a Frontend Developer
 
 - :mailbox:How to reach me: kaurrajvinder736@gmail.com .
 
+### :hammer_and_wrench: Languages and Tools :
+
 ![Snake animation](https://github.com/rajvinder-kaur/rajvinder-kaur/blob/output/github-contribution-grid-snake.svg)
