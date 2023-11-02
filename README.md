@@ -61,4 +61,4 @@ I am a Frontend Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvinder-kaur&layout=compact&theme=vision-friendly-dark)](https://github.com/rajvinder-kaur/github-readme-stats)
 
-[![snake gif](https://github.com/rajvinder-kaur/rajvinder-kaur/blob/output/github-contribution-grid-snake.gif)]
+<!--[![snake gif](https://github.com/rajvinder-kaur/rajvinder-kaur/blob/output/github-contribution-grid-snake.gif)] -->
