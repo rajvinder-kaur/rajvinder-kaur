@@ -28,6 +28,8 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/ta0ttSeDKuCsg/giphy.gif" width="300" style={{margin:auto}}/>
 </div>
 
+[![An image of @rajvinderkaur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajvinderkaur)](https://holopin.io/@rajvinderkaur)
+
 ### :woman_technologist: About Me :
 
 I am a Frontend Developer 
